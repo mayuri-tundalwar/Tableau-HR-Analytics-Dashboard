@@ -1,4 +1,4 @@
-# Tableau-HR-Analytics-Dashboard
+![T-1](https://github.com/user-attachments/assets/46244917-3df2-4981-b159-511ae8989001)# Tableau-HR-Analytics-Dashboard
 This project is an interactive Human Resources (HR) Analytics Dashboard built using Tableau Public, designed to provide insightful visualisations into key HR metrics such as employee hiring and termination trends, demographic breakdowns (gender, age, education), department-wise headcounts, and salary distributions. The dashboard features two main views—an overview with KPIs, performance insights, and geographic distribution, and a detailed employee list with role, salary, and employment duration filters. It demonstrates strong data visualisation skills, enabling data-driven decision-making for workforce planning and performance management.
 
 # 💼 Human Resources Analytics Dashboard | Tableau Project
@@ -56,3 +56,10 @@ The goal of this project is to build a dashboard that can support HR teams and m
 - 📐 Age vs. Salary scatter plot for compensation analysis  
 - 🔍 Drill-down into individual employee data  
 - 🧠 Performance insights mapped with education levels
+
+## ✨ Project Output
+
+![T-1](https://github.com/user-attachments/assets/4eb91576-672e-4a59-8cbc-b3dff7950fe6)
+
+![T-2](https://github.com/user-attachments/assets/44173a13-25fb-45ba-bc03-651f89a53497)
+
